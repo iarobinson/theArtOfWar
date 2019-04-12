@@ -5,7 +5,6 @@ var theArtOfWar = {
     i: {
       title: "Laying Plans",
       passage: [
-        "",
         "Sun Tzu said: The art of war is of vital importance to the State.",
         "It is a matter of life and death, a road either to safety or to ruin. Hence it is a subject of inquiry which can on no account be neglected.",
         "The art of war, then, is governed by five constant factors, to be taken into account in one's deliberations, when seeking to determine the conditions obtaining in the field.",
@@ -37,7 +36,6 @@ var theArtOfWar = {
     ii: {
       title: "Waging War",
       passage: [
-        "",
         "Sun Tzu said: In the operations of war, where there are in the field a thousand swift chariots, as many heavy chariots, and a hundred thousand mail-clad soldiers, with provisions enough to carry them a thousand li, the expenditure at home and at the front, including entertainment of guests, small items such as glue and paint, and sums spent on chariots and armor, will reach the total of a thousand ounces of silver per day. Such is the cost of raising an army of 100,000 men.",
         "When you engage in actual fighting, if victory is long in coming, then men's weapons will grow dull and their ardor will be damped. If you lay siege to a town, you will exhaust your strength.",
         "Again, if the campaign is protracted, the resources of the State will not be equal to the strain.",
@@ -63,7 +61,6 @@ var theArtOfWar = {
     iii: {
       title: "Attack by Stratagem",
       passage: [
-        "",
         "Sun Tzu said: In the practical art of war, the best thing of all is to take the enemy's country whole and intact; to shatter and destroy it is not so good. So, too, it is better to recapture an army entire than to destroy it, to capture a regiment, a detachment or a company entire than to destroy them.",
         "Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting.",
         "Thus the highest form of generalship is to balk the enemy's plans; the next best is to prevent the junction of the enemy's forces; the next in order is to attack the enemy's army in the field; and the worst policy of all is to besiege walled cities.",
@@ -87,7 +84,6 @@ var theArtOfWar = {
     iv: {
       title: "Tactical Dispositions",
       passage: [
-        "",
         "Sun Tzu said: The good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity of defeating the enemy.",
         "To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.",
         "Thus the good fighter is able to secure himself against defeat, but cannot make certain of defeating the enemy.",
@@ -113,7 +109,6 @@ var theArtOfWar = {
     v: {
       title: "Energy",
       passage: [
-        "",
         "Sun Tzu said: The control of a large force is the same principle as the control of a few men: it is merely a question of dividing up their numbers.",
         "Fighting with a large army under your command is nowise different from fighting with a small one: it is merely a question of instituting signs and signals.",
         "To ensure that your whole host may withstand the brunt of the enemy's attack and remain unshaken-- this is effected by maneuvers direct and indirect.",
@@ -142,7 +137,6 @@ var theArtOfWar = {
     vi: {
       title: "Weak Points and Strong",
       passage: [
-        "",
         "Sun Tzu said: Whoever is first in the field and awaits the coming of the enemy, will be fresh for the fight; whoever is second in the field and has to hasten to battle will arrive exhausted.",
         "Therefore the clever combatant imposes his will on the enemy, but does not allow the enemy's will to be imposed on him.",
         "By holding out advantages to him, he can cause the enemy to approach of his own accord; or, by inflicting damage, he can make it impossible for the enemy to draw near.",
@@ -182,7 +176,6 @@ var theArtOfWar = {
     vii: {
       title: "Maneuvering",
       passage: [
-        "",
         "Sun Tzu said: In war, the general receives his commands from the sovereign.",
         "Having collected an army and concentrated his forces, he must blend and harmonize the different elements thereof before pitching his camp.",
         "After that, comes tactical maneuvering, than which there is nothing more difficult. The difficulty of tactical maneuvering consists in turning the devious into the direct, and misfortune into gain.",
@@ -225,7 +218,6 @@ var theArtOfWar = {
     viii: {
       title: "Variation in Tactics",
       passage: [
-        "",
         "Sun Tzu said: In war, the general receives his commands from the sovereign, collects his army and concentrates his forces",
         "When in difficult country, do not encamp. In country where high roads intersect, join hands with your allies. Do not linger in dangerously isolated positions. In hemmed-in situations, you must resort to stratagem. In desperate position, you must fight.",
         "There are roads which must not be followed, armies which must be not attacked, towns which must be besieged, positions which must not be contested, commands of the sovereign which must not be obeyed.",
@@ -245,7 +237,6 @@ var theArtOfWar = {
     ix: {
       title: "The Army on the March",
       passage: [
-        "",
         "Sun Tzu said: We come now to the question of encamping the army, and observing signs of the enemy. Pass quickly over mountains, and keep in the neighborhood of valleys.",
         "Camp in high places, facing the sun. Do not climb heights in order to fight. So much for mountain warfare.",
         "After crossing a river, you should get far away from it.",
@@ -296,7 +287,6 @@ var theArtOfWar = {
     x: {
       title: "Terrain",
       passage: [
-        "",
         "Sun Tzu said: We may distinguish six kinds of terrain, to wit: (1) Accessible ground; (2) entangling ground; (3) temporizing ground; (4) narrow passes; (5) precipitous heights; (6) positions at a great distance from the enemy.",
         "Ground which can be freely traversed by both sides is called accessible.",
         "With regard to ground of this nature, be before the enemy in occupying the raised and sunny spots, and carefully guard your line of supplies. Then you will be able to fight with advantage.",
@@ -333,7 +323,6 @@ var theArtOfWar = {
     xi: {
       title: "The Nine Situations",
       passage: [
-        "",
         "Sun Tzu said: The art of war recognizes nine varieties of ground: (1) Dispersive ground; (2) facile ground; (3) contentious ground; (4) open ground; (5) ground of intersecting highways; (6) serious ground; (7) difficult ground; (8) hemmed-in ground; (9) desperate ground.",
         "When a chieftain is fighting in his own territory, it is dispersive ground.",
         "When he has penetrated into hostile territory, but to no great distance, it is facile ground.",
@@ -407,7 +396,6 @@ var theArtOfWar = {
     xii: {
       title: "The Attack by Fire",
       passage: [
-        "",
         "Sun Tzu said: There are five ways of attacking with fire. The first is to burn soldiers in their camp; the second is to burn stores; the third is to burn baggage trains; the fourth is to burn arsenals and magazines; the fifth is to hurl dropping fire amongst the enemy.",
         "In order to carry out an attack, we must have means available. The material for raising fire should always be kept in readiness.",
         "There is a proper season for making attacks with fire, and special days for starting a conflagration.",
@@ -434,7 +422,6 @@ var theArtOfWar = {
     xiii: {
       title: "The Use of Spies",
       passage: [
-        "",
         "Sun Tzu said: Raising a host of a hundred thousand men and marching them great distances entails heavy loss on the people and a drain on the resources of the State. The daily expenditure will amount to a thousand ounces of silver. There will be commotion at home and abroad, and men will drop down exhausted on the highways. As many as seven hundred thousand families will be impeded in their labor.",
         "Hostile armies may face each other for years, striving for the victory which is decided in a single day. This being so, to remain in ignorance of the enemy's condition simply because one grudges the outlay of a hundred ounces of silver in honors and emoluments, is the height of inhumanity.",
         "One who acts thus is no leader of men, no present help to his sovereign, no master of victory.",
@@ -467,4 +454,4 @@ var theArtOfWar = {
   }
 };
 
-console.log(theArtOfWar);
+var CHAPTERS = Object.keys(theArtOfWar.chapter);

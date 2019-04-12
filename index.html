@@ -1,49 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
 
-  <!-- Basic Page Needs
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <meta charset="utf-8">
-  <title>The Art of War by Sun Tzu</title>
-  <meta name="description" content="The Art of War by Sun Tzu displayed for modernity.">
-  <meta name="author" content="Sun Tzu - A project by Ian Robinson">
+    <!-- Basic Page Needs
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta charset="utf-8">
+    <title>The Art of War by Sun Tzu</title>
+    <meta name="description" content="The Art of War by Sun Tzu displayed for modernity.">
+    <meta name="author" content="Sun Tzu - A project by Ian Robinson">
 
-  <!-- Mobile Specific Metas
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Mobile Specific Metas
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <!-- FONT
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link href="https://fonts.googleapis.com/css?family=Sawarabi+Mincho" rel="stylesheet">
+    <!-- FONT
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link href="https://fonts.googleapis.com/css?family=Sawarabi+Mincho" rel="stylesheet">
 
-  <!-- CSS
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/skeleton.css">
+    <!-- CSS
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/skeleton.css">
 
-  <!-- Favicon
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <link rel="icon" type="image/png" href="images/favicon.png">
+    <!-- Favicon
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <link rel="icon" type="image/png" href="images/favicon.png">
 
-  <!-- The Art of War
-  –––––––––––––––––––––––––––––––––––––––––––––––––– -->
-  <script src="js/theArtOfWar.js"></script>
+    <!-- The Art of War
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <script src="js/theArtOfWar.js"></script>
 
-</head>
+    <!-- Custom JavaScript
+    –––––––––––––––––––––––––––––––––––––––––––––––––– -->
+    <script src="js/custom.js"></script>
 
-<body>
-  <div class="section">
-    <div class="container">
-      <div class="six columns offset-by-three column">
-        <h1>
-          The Art of War
-        </h1>
-        <p>
-          Passage to meditate on.
-        </p>
+  </head>
+
+  <body>
+    <div class="section">
+      <div class="container">
+        <div class="six columns offset-by-three">
+          <h1>
+            The Art of War
+          </h1>
+          <center>
+            <button id="newPassageButton">New Passage</button>
+          </center>
+        </div>
       </div>
     </div>
-  </div>
-</body>
+    <div class="section">
+      <div class="container">
+        <div class="eight columns offset-by-two">
+          <h2><div id="passageTitle"></div></h2>
+        </div>
+      </div>
+      <div class="container">
+        <div class="six columns offset-by-three">
+          <div id="passageCreate">
+            <p>Passage to meditate on.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
 </html>
