@@ -455,3 +455,7 @@ var theArtOfWar = {
 };
 
 var CHAPTERS = Object.keys(theArtOfWar.chapter);
+var TITLES = [];
+CHAPTERS.forEach(function(chapterString) {
+  TITLES.push(theArtOfWar.chapter[chapterString].title);
+})

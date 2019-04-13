@@ -8,7 +8,6 @@ function init() {
 
   passageButton.addEventListener("click", function() {
     var display = generatePassage()
-    console.log(display);
     passageCreate.innerHTML = display.passage;
     passageTitle.innerHTML = display.title;
   });
@@ -17,7 +16,6 @@ function init() {
 function generatePassage() {
   var chapterNumber = randomChapter();
   var chapter = theArtOfWar.chapter[chapterNumber]
-  console.log(chapter.passage.length, "<= chapter.passage.length");
   var randomPassage = chapter.passage[Math.floor(Math.random() * chapter.passage.length)]
 
   return {title: chapter.title, passage: randomPassage};

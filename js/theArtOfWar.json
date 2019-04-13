@@ -466,5 +466,3 @@ var theArtOfWar = {
     }
   }
 };
-
-console.log(theArtOfWar);

@@ -426,5 +426,13 @@ there.
 }
 .section-heading,
 .section-description {
-  margin-bottom: 1.2rem;
-}
+  margin-bottom: 1.2rem; }
+
+
+/* Sections
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+#footer-title {
+    position: absolute;
+    bottom: 20rem;
+    width: 100%;
+    height: 1.2rem; }
