@@ -15,14 +15,11 @@ function init() {
 
 function generatePassage() {
   var chapterNumber = randomChapter();
-  var chapter = theArtOfWar.chapter[chapterNumber]
+  var chapter       = theArtOfWar.chapter[chapterNumber]
+  var sketch        = theArtOfWar.chapter[chapterNumber].sketch
   var randomPassage = chapter.passage[Math.floor(Math.random() * chapter.passage.length)]
 
-  return {title: chapter.title, passage: randomPassage};
-}
-
-function randomChapter() {
-  theArtOfWar.chapter
+  return {title: chapter.title, sketch: sketch, passage: randomPassage};
 }
 
 function randomChapter() {
