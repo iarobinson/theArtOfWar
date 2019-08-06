@@ -4,7 +4,7 @@ var theArtOfWar = {
   chapter: {
     i: {
       title: "Laying Plans",
-      sketch: "/image/art/01_laying_plans.png",
+      sketch: "images/art/01_laying_plans.png",
       passage: [
         "Sun Tzu said: The art of war is of vital importance to the State.",
         "It is a matter of life and death, a road either to safety or to ruin. Hence it is a subject of inquiry which can on no account be neglected.",
@@ -35,8 +35,8 @@ var theArtOfWar = {
       ]
     },
     ii: {
-      title: "Waging War",,
-      sketch: "/image/art/02_waging_war.png",
+      title: "Waging War",
+      sketch: "images/art/02_waging_war.png",
       passage: [
         "Sun Tzu said: In the operations of war, where there are in the field a thousand swift chariots, as many heavy chariots, and a hundred thousand mail-clad soldiers, with provisions enough to carry them a thousand li, the expenditure at home and at the front, including entertainment of guests, small items such as glue and paint, and sums spent on chariots and armor, will reach the total of a thousand ounces of silver per day. Such is the cost of raising an army of 100,000 men.",
         "When you engage in actual fighting, if victory is long in coming, then men's weapons will grow dull and their ardor will be damped. If you lay siege to a town, you will exhaust your strength.",
@@ -62,7 +62,7 @@ var theArtOfWar = {
     },
     iii: {
       title: "Attack by Stratagem",
-      sketch: "/image/art/03_attack_by_stratagem.png",
+      sketch: "images/art/03_attack_by_stratagem.png",
       passage: [
         "Sun Tzu said: In the practical art of war, the best thing of all is to take the enemy's country whole and intact; to shatter and destroy it is not so good. So, too, it is better to recapture an army entire than to destroy it, to capture a regiment, a detachment or a company entire than to destroy them.",
         "Hence to fight and conquer in all your battles is not supreme excellence; supreme excellence consists in breaking the enemy's resistance without fighting.",
@@ -86,7 +86,7 @@ var theArtOfWar = {
     },
     iv: {
       title: "Tactical Dispositions",
-      sketch: "/image/art/04_tactical_disposition.png",
+      sketch: "images/art/04_tactical_disposition.png",
       passage: [
         "Sun Tzu said: The good fighters of old first put themselves beyond the possibility of defeat, and then waited for an opportunity of defeating the enemy.",
         "To secure ourselves against defeat lies in our own hands, but the opportunity of defeating the enemy is provided by the enemy himself.",
@@ -112,7 +112,7 @@ var theArtOfWar = {
     },
     v: {
       title: "Energy",
-      sketch: "/image/art/05_energy.png",
+      sketch: "images/art/05_energy.png",
       passage: [
         "Sun Tzu said: The control of a large force is the same principle as the control of a few men: it is merely a question of dividing up their numbers.",
         "Fighting with a large army under your command is nowise different from fighting with a small one: it is merely a question of instituting signs and signals.",
@@ -141,7 +141,7 @@ var theArtOfWar = {
     },
     vi: {
       title: "Weak Points and Strong",
-      sketch: "/image/art/06_weak_points_and_strong.png",
+      sketch: "images/art/06_weak_points_and_strong.png",
       passage: [
         "Sun Tzu said: Whoever is first in the field and awaits the coming of the enemy, will be fresh for the fight; whoever is second in the field and has to hasten to battle will arrive exhausted.",
         "Therefore the clever combatant imposes his will on the enemy, but does not allow the enemy's will to be imposed on him.",
@@ -181,7 +181,7 @@ var theArtOfWar = {
     },
     vii: {
       title: "Maneuvering",
-      sketch: "/image/art/07_maneuvering.png",
+      sketch: "images/art/07_maneuvering.png",
       passage: [
         "Sun Tzu said: In war, the general receives his commands from the sovereign.",
         "Having collected an army and concentrated his forces, he must blend and harmonize the different elements thereof before pitching his camp.",
@@ -224,7 +224,7 @@ var theArtOfWar = {
     },
     viii: {
       title: "Variation in Tactics",
-      sketch: "/image/art/08_variations_in_tatics.png",
+      sketch: "images/art/08_variations_in_tactics.png",
       passage: [
         "Sun Tzu said: In war, the general receives his commands from the sovereign, collects his army and concentrates his forces",
         "When in difficult country, do not encamp. In country where high roads intersect, join hands with your allies. Do not linger in dangerously isolated positions. In hemmed-in situations, you must resort to stratagem. In desperate position, you must fight.",
@@ -244,7 +244,7 @@ var theArtOfWar = {
     },
     ix: {
       title: "The Army on the March",
-      sketch: "/image/art/09_the_army_on_the_march.png",
+      sketch: "images/art/09_the_army_on_the_march.png",
       passage: [
         "Sun Tzu said: We come now to the question of encamping the army, and observing signs of the enemy. Pass quickly over mountains, and keep in the neighborhood of valleys.",
         "Camp in high places, facing the sun. Do not climb heights in order to fight. So much for mountain warfare.",
@@ -295,7 +295,7 @@ var theArtOfWar = {
     },
     x: {
       title: "Terrain",
-      sketch: "/image/art/10_terrain.png",
+      sketch: "images/art/10_terrain.png",
       passage: [
         "Sun Tzu said: We may distinguish six kinds of terrain, to wit: (1) Accessible ground; (2) entangling ground; (3) temporizing ground; (4) narrow passes; (5) precipitous heights; (6) positions at a great distance from the enemy.",
         "Ground which can be freely traversed by both sides is called accessible.",
@@ -332,7 +332,7 @@ var theArtOfWar = {
     },
     xi: {
       title: "The Nine Situations",
-      sketch: "/image/art/11_nine_situations.png",
+      sketch: "images/art/11_nine_situations.png",
       passage: [
         "Sun Tzu said: The art of war recognizes nine varieties of ground: (1) Dispersive ground; (2) facile ground; (3) contentious ground; (4) open ground; (5) ground of intersecting highways; (6) serious ground; (7) difficult ground; (8) hemmed-in ground; (9) desperate ground.",
         "When a chieftain is fighting in his own territory, it is dispersive ground.",
@@ -406,7 +406,7 @@ var theArtOfWar = {
     },
     xii: {
       title: "The Attack by Fire",
-      sketch: "/image/art/12_attack_by_fire.png",
+      sketch: "images/art/12_attack_by_fire.png",
       passage: [
         "Sun Tzu said: There are five ways of attacking with fire. The first is to burn soldiers in their camp; the second is to burn stores; the third is to burn baggage trains; the fourth is to burn arsenals and magazines; the fifth is to hurl dropping fire amongst the enemy.",
         "In order to carry out an attack, we must have means available. The material for raising fire should always be kept in readiness.",
@@ -433,7 +433,7 @@ var theArtOfWar = {
     },
     xiii: {
       title: "The Use of Spies",
-      sketch: "/image/art/13_the_use_of_spies.png",
+      sketch: "images/art/13_the_use_of_spies.png",
       passage: [
         "Sun Tzu said: Raising a host of a hundred thousand men and marching them great distances entails heavy loss on the people and a drain on the resources of the State. The daily expenditure will amount to a thousand ounces of silver. There will be commotion at home and abroad, and men will drop down exhausted on the highways. As many as seven hundred thousand families will be impeded in their labor.",
         "Hostile armies may face each other for years, striving for the victory which is decided in a single day. This being so, to remain in ignorance of the enemy's condition simply because one grudges the outlay of a hundred ounces of silver in honors and emoluments, is the height of inhumanity.",
