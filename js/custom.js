@@ -7,11 +7,16 @@ function init() {
   var passageSketch = document.getElementById("passageSketch");
 
   passageButton.addEventListener("click", function() {
-    var display = generatePassage()
-    passageCreate.innerHTML = display.passage;
-    passageSketch.innerHTML = display.sketch;
-    passageTitle.innerHTML = display.title;
+    displayNewPassage();
   });
+}
+
+function displayNewPassage() {
+  var display = generatePassage()
+  passageCreate.innerHTML = display.passage;
+  passageSketch.innerHTML = display.sketch;
+  passageTitle.innerHTML = display.title;
+  document.getElementById("footer-title").style.display = "none";
 }
 
 function generatePassage() {
@@ -28,5 +33,5 @@ function randomChapter() {
 }
 
 function formatSketch(url) {
-  return `<img src='${url}' style='width:100%;max-width:500px;' />`
+  return `<a onClick="displayNewPassage()"><img src='${url}' style='width:100%;max-width:500px;' /></a>`
 }
