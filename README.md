@@ -7,7 +7,7 @@
 To see it live, [click here](https://iarobinson.github.io/theArtOfWar/)
 
 
-"It is a matter of life and death, a road either to safety or to ruin. Hence it is a subject of inquiry which can on no account be neglected." - Sun Tzu
+> "It is a matter of life and death, a road either to safety or to ruin. Hence it is a subject of inquiry which can on no account be neglected." - Sun Tzu
 
 
 ## Illustrations
