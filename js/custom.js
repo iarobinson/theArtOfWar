@@ -37,5 +37,6 @@ function randomChapter() {
 function formatSketch(url) {
   return `<a onClick="displayNewPassage()">
             <img src='${url}' style='width:100%;max-width:500px;' />
-          </a>`
+          </a>
+          <center><p style="color:gray" id="clickImageForNextPassage">click image for next passage</p></center>`;
 }
